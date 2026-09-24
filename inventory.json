@@ -1,0 +1,264 @@
+{
+  "dealership": "Burrard Acura",
+  "generated_at": "2026-09-24T16:05:14",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "ADX A-Spec AWD - VIP SALE!!!2025 Acura",
+      "vin": "3HDSA2H54SM103096",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a9fe97045242.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/adx/2025-acura-adx-id39018206",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/adx/2025-acura-adx-id39018206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:56:36",
+      "odometer_km": 1642,
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S 6MT - VIP SALE!!!2024 Acura",
+      "vin": "19UDE5G98RA800106",
+      "stock": "A22C002",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/8f3ab706b6af.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:56:52",
+      "odometer_km": 41796,
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S 6MT - VIP SALE!!!2024 Acura",
+      "vin": "19UDE5G92RA800425",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7ddbcbb776da.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:07",
+      "odometer_km": 22533,
+      "condition": "used"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT - VIP SALE!!!2025 Acura",
+      "vin": "19UDE4H69SA800510",
+      "stock": "A216019",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/6c2e0970a689.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:21",
+      "odometer_km": 12704,
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S 6MT - VIP SALE!!!2025 Acura",
+      "vin": "19UDE5G98SA800113",
+      "stock": "A22F004",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/9a72619c798e.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:36",
+      "odometer_km": 10488,
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S 6MT - VIP SALE!!!2026 Acura",
+      "vin": "19UDE5G91TA800259",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/5e986125d628.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:52",
+      "odometer_km": 5432,
+      "condition": "used"
+    },
+    {
+      "name": "MDX Platinum Elite A-Spec SH-AWD - VIP SALE!!!2025 Acura",
+      "vin": "5J8YE1H95SL802639",
+      "stock": "A22F002",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/6205aa91f52a.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39140297",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39140297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:10",
+      "odometer_km": 13250,
+      "condition": "used"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD - VIP SALE!!!2025 Acura",
+      "vin": "5J8YE1H07SL800926",
+      "stock": "A260190",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/0eeaafcc3099.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:27",
+      "odometer_km": 25703,
+      "condition": "used"
+    },
+    {
+      "name": "MDX Platinum Elite A-Spec w/5000 lbs Trailer Hitch Pkg2025 Acura",
+      "vin": "5J8YE1H95SL803080",
+      "stock": "A260155",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/585d10431589.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:42",
+      "odometer_km": 40623,
+      "condition": "used"
+    },
+    {
+      "name": "RDX A-Spec SH-AWD - VIP SALE!!!2024 Acura",
+      "vin": "5J8TC2H69RL802617",
+      "stock": "A260217",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/82659c8deb82.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:57",
+      "odometer_km": 43699,
+      "condition": "used"
+    },
+    {
+      "name": "RDX A-Spec SH-AWD - VIP SALE!!!2024 Acura",
+      "vin": "5J8TC2H66RL804857",
+      "stock": "A217004",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d52a31aaeff6.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39177935",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39177935?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:59:11",
+      "odometer_km": 20148,
+      "condition": "used"
+    },
+    {
+      "name": "RDX A-Spec SH-AWD - VIP SALE!!!2025 Acura",
+      "vin": "5J8TC2H69SL804597",
+      "stock": "A260189",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/805b1f1e6e62.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:59:26",
+      "odometer_km": 22697,
+      "condition": "used"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM100003",
+      "stock": "A260075",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a3cbf2bbba24.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38012255?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38012255?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:19",
+      "odometer_km": 3939,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H79TM101430",
+      "stock": "A260141",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2ed04d62c32d.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:33",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H0XTL800744",
+      "stock": "A260004",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/8fca103b7beb.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36787878?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36787878?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:02:48",
+      "odometer_km": 4604,
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H04TL802909",
+      "stock": "A260106",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/fc269597f0c8.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:02",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H83TL800151",
+      "stock": "A260111",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/fb78286a3174.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:15",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H91TL803207",
+      "stock": "A260126",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/58f64af04465.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38380036?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38380036?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:30",
+      "odometer_km": 1538,
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H9XTL803772",
+      "stock": "A260158",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0df0dbd6e943.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38508730?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38508730?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:44",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H96TL803302",
+      "stock": "A260169",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/5f3f9ed27206.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38541286?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38541286?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:03:58",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H06TL803995",
+      "stock": "A260172",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/4cba5c812a26.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38685367?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38685367?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:14",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H99TL804539",
+      "stock": "A260200",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/472ec34a6222.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881362?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881362?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:30",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H97TL804524",
+      "stock": "A260199",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/d4dda7946bc0.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881363?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881363?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:43",
+      "condition": "new"
+    },
+    {
+      "name": "RDX Platinum Elite A-SPEC2026 Acura",
+      "vin": "5J8TC2H82TL802242",
+      "stock": "A260124",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/dc30739259bd.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38348465?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38348465?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T16:04:58",
+      "condition": "new"
+    }
+  ]
+}
