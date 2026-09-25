@@ -1,6 +1,6 @@
 {
   "dealership": "Burrard Acura",
-  "generated_at": "2026-09-25T16:09:36",
+  "generated_at": "2026-09-25T16:13:37",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -144,7 +144,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a3cbf2bbba24.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38012255?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38012255?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:02:19",
+      "last_verified": "2026-09-25T16:12:25",
       "odometer_km": 3939,
       "condition": "new"
     },
@@ -155,7 +155,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2ed04d62c32d.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:02:33",
+      "last_verified": "2026-09-25T16:12:41",
       "condition": "new"
     },
     {
@@ -165,7 +165,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/8fca103b7beb.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36787878?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36787878?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:02:48",
+      "last_verified": "2026-09-25T16:12:56",
       "odometer_km": 4604,
       "condition": "new"
     },
@@ -176,7 +176,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/fc269597f0c8.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:03:02",
+      "last_verified": "2026-09-25T16:13:12",
       "condition": "new"
     },
     {
@@ -186,7 +186,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/fb78286a3174.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T16:03:15",
+      "last_verified": "2026-09-25T16:13:26",
       "condition": "new"
     },
     {
