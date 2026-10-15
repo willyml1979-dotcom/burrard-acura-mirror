@@ -1,7 +1,7 @@
 {
   "dealership": "Burrard Acura",
-  "generated_at": "2026-10-13T21:56:56",
-  "vehicle_count": 1145,
+  "generated_at": "2026-10-15T01:32:40",
+  "vehicle_count": 1079,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -14,19 +14,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:54:18",
       "odometer_km": 9464,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ADX A-Spec2025 Acura",
-      "vin": "3HDSA2H53SM101923",
-      "stock": "H216007",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d33d7df93352.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:54:33",
-      "odometer_km": 22700,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -58,6 +45,19 @@
       "province": "BC"
     },
     {
+      "name": "ILX Premium2018 Acura",
+      "vin": "19UDE2F75JA801376",
+      "stock": "A213010",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/3590fdbd922e.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/ilx/2018-acura-ilx-id39354825",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/ilx/2018-acura-ilx-id39354825?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:19:14",
+      "odometer_km": 131868,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Integra Type S 6MT2024 Acura",
       "vin": "19UDE5G98RA800106",
       "stock": "A22C002",
@@ -79,20 +79,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T17:20:40",
       "odometer_km": 22763,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/6c2e0970a689.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:20:57",
-      "price": 65951.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -149,34 +135,6 @@
       "province": "BC"
     },
     {
-      "name": "Integra Type S Manual2026 Acura",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a4fe006e98cf.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:48:46",
-      "odometer_km": 11562,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "MDX Elite 6sp at2013 Acura",
-      "vin": "2HNYD2H69DH000599",
-      "stock": "267102B",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b3d09ff76433.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:55:49",
-      "price": 15750.0,
-      "price_currency": "CAD",
-      "odometer_km": 150135,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "MDX Nav Pkg2016 Acura",
       "vin": "5FRYD4H43GB504073",
       "stock": "G26107B",
@@ -198,45 +156,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2017-acura-mdx-id39297595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:56:18",
       "odometer_km": 103339,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "MDX Sport Hybrid Elite SH-AWD2019 Acura",
-      "vin": "5J8YD7H92KL800045",
-      "stock": "A215009",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/9a943e24e56c.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39297598",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39297598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:17:38",
-      "odometer_km": 56146,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "MDX A-Spec SH-AWD2020 Acura",
-      "vin": "5J8YD4H02LL802976",
-      "stock": "A216020",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/bd921043a463.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:17:53",
-      "odometer_km": 174070,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "MDX Type S2022 Acura",
-      "vin": "5J8YD8H89NL800108",
-      "stock": "A113013",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/90743daabf72.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:56:34",
-      "odometer_km": 48590,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -281,19 +200,6 @@
       "province": "BC"
     },
     {
-      "name": "MDX A-Spec SH-AWD2025 Acura",
-      "vin": "5J8YE1H07SL800926",
-      "stock": "A260190",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/0eeaafcc3099.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:57:20",
-      "odometer_km": 25703,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "MDX Platinum Elite A-Spec w/5000 lbs Trailer Hitch Pkg2025 Acura",
       "vin": "5J8YE1H95SL803080",
       "stock": "A260155",
@@ -333,6 +239,19 @@
       "province": "BC"
     },
     {
+      "name": "MDX A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H07SL803485",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/c461ebf29973.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:19:28",
+      "odometer_km": 11360,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "MDX Tech SH-AWD2026 Acura",
       "vin": "5J8YE1H40TL802876",
       "stock": "A12C017",
@@ -341,20 +260,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/mdx/2026-acura-mdx-id39222577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T19:49:42",
       "odometer_km": 3819,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/79ca4f23da86.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T20:48:56",
-      "price": 65951.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -400,19 +305,6 @@
     },
     {
       "name": "RDX A-Spec AWD2024 Acura",
-      "vin": "5J8TC2H61RL801722",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b11aec5f4870.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T20:49:28",
-      "odometer_km": 50877,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RDX A-Spec AWD2024 Acura",
       "vin": "5J8TC2H65RL804851",
       "stock": "A262051",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/413bb2b059c1.html",
@@ -420,6 +312,32 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T20:49:43",
       "odometer_km": 25091,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RDX A-Spec AWD2024 Acura",
+      "vin": "5J8TC2H64RL805697",
+      "stock": "A316059",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/cd9af8936b9b.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39354444",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39354444?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:19:43",
+      "odometer_km": 62000,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RDX A-Spec AWD2024 Acura",
+      "vin": "5J8TC2H67RL802633",
+      "stock": "A260106",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/f1863711bbf3.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39360485",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39360485?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:19:58",
+      "odometer_km": 15978,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -513,6 +431,19 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/a3/2018-audi-a3-id39222627?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T19:49:58",
       "odometer_km": 73814,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "A4 2.0T Technik quattro 7sp S tronic2017 Audi",
+      "vin": "WAUCNAF40HN028598",
+      "stock": "A252143",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/c231f7052ff3.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/audi/a4/2017-audi-a4-id39354445",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/a4/2017-audi-a4-id39354445?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:20:12",
+      "odometer_km": 194470,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -758,6 +689,19 @@
       "province": "BC"
     },
     {
+      "name": "Q7 2.0T Progressiv quattro 8sp Tiptronic2019 Audi",
+      "vin": "WA1MHAF72KD020132",
+      "stock": "A111007",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/c2a0797b4db3.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/audi/q7/2019-audi-q7-id39354335",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/q7/2019-audi-q7-id39354335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:20:27",
+      "odometer_km": 99605,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Q8 Technik2019 Audi",
       "vin": "WA1FVAF14KD031470",
       "stock": "G26095A",
@@ -966,6 +910,19 @@
       "province": "BC"
     },
     {
+      "name": "SQ7 4.0 TFSI quattro2026 Audi",
+      "vin": "WA1AWBF74TD012971",
+      "stock": "JL11708",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/9ea3e9781dcd.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/audi/sq7/2026-audi-sq7-id39360584",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/audi/sq7/2026-audi-sq7-id39360584?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:20:41",
+      "odometer_km": 5790,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "TTS 2.0T quattro 6sp S tronic Cpe2016 Audi",
       "vin": "TRUC1AFV2G1031277",
       "stock": "MB52A00",
@@ -1070,33 +1027,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/1e78d9cbd949.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/ix/2022-bmw-ix-id39290448",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/ix/2022-bmw-ix-id39290448?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:31:31",
-      "price": 65951.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "iX xDrive50 w/Premium Enhanced Package2024 BMW",
-      "vin": "WB523CF08RCN74233",
-      "stock": "A215011",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b8b69e349cdd.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:55:44",
-      "odometer_km": 41875,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "M2 Competition2020 BMW",
       "vin": "WBS2U7C04L7D90741",
       "stock": "MB62C00",
@@ -1116,7 +1046,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/bcdb5b9254f8.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39080631",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39080631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:56:00",
+      "last_verified": "2026-10-15T01:28:54",
       "odometer_km": 12850,
       "condition": "used",
       "city": "Vancouver",
@@ -1129,8 +1059,8 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/25d2e61a6f0a.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39163749",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39163749?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:56:17",
-      "odometer_km": 8489,
+      "last_verified": "2026-10-15T01:29:09",
+      "odometer_km": 8490,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1181,8 +1111,8 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/c9cfc8848df2.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m4/2024-bmw-m4-id38945192",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m4/2024-bmw-m4-id38945192?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:56:33",
-      "odometer_km": 20626,
+      "last_verified": "2026-10-15T01:29:25",
+      "odometer_km": 20629,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1207,7 +1137,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7c5a6d35da06.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m440i/2023-bmw-m440i-id38922660",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m440i/2023-bmw-m440i-id38922660?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:56:49",
+      "last_verified": "2026-10-15T01:29:40",
       "odometer_km": 38365,
       "condition": "used",
       "city": "Vancouver",
@@ -1220,7 +1150,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/fa75dfaaeba7.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m5/2025-bmw-m5-id39042752",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m5/2025-bmw-m5-id39042752?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:57:06",
+      "last_verified": "2026-10-15T01:29:56",
       "odometer_km": 28100,
       "condition": "used",
       "city": "Vancouver",
@@ -1233,7 +1163,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/bd17c8f7d74b.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m8/2025-bmw-m8-id38981842",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/m8/2025-bmw-m8-id38981842?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:57:40",
+      "last_verified": "2026-10-15T01:30:10",
       "odometer_km": 9950,
       "condition": "used",
       "city": "Vancouver",
@@ -1274,7 +1204,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/39792c9824b5.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id38727050",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id38727050?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:57:59",
+      "last_verified": "2026-10-15T01:30:24",
       "odometer_km": 28826,
       "condition": "used",
       "city": "Vancouver",
@@ -1287,7 +1217,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/996cdeb4aee4.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id39102899",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id39102899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:16",
+      "last_verified": "2026-10-15T01:30:40",
       "odometer_km": 28834,
       "condition": "used",
       "city": "Vancouver",
@@ -1300,7 +1230,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/c70d09e995f8.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2024-bmw-x1-id39026464",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2024-bmw-x1-id39026464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:30",
+      "last_verified": "2026-10-15T01:30:56",
       "odometer_km": 18700,
       "condition": "used",
       "city": "Vancouver",
@@ -1313,7 +1243,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/807f978c8c77.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2025-bmw-x1-id39042628",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x1/2025-bmw-x1-id39042628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:44",
+      "last_verified": "2026-10-15T01:31:10",
       "odometer_km": 40473,
       "condition": "used",
       "city": "Vancouver",
@@ -1347,19 +1277,6 @@
     },
     {
       "name": "X3 xDrive30i2024 BMW",
-      "vin": "5UX53DP00R9W84100",
-      "stock": "MB72A00",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a4e77d2732d8.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:59",
-      "odometer_km": 30100,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "X3 xDrive30i2024 BMW",
       "vin": "5UX53DP00R9U68392",
       "stock": "A316058",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a28ef5185a30.html",
@@ -1378,7 +1295,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/fa7c9eef0ab3.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x3/2026-bmw-x3-id38818153",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x3/2026-bmw-x3-id38818153?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:59:15",
+      "last_verified": "2026-10-15T01:31:25",
       "odometer_km": 3910,
       "condition": "used",
       "city": "Vancouver",
@@ -1443,7 +1360,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/bbe5b4ee1282.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x5/2025-bmw-x5-id38827156",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x5/2025-bmw-x5-id38827156?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:59:31",
+      "last_verified": "2026-10-15T01:31:38",
       "odometer_km": 50805,
       "condition": "used",
       "city": "Vancouver",
@@ -1456,7 +1373,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/198eacec62a7.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x6/2023-bmw-x6-id38340873",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x6/2023-bmw-x6-id38340873?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:59:45",
+      "last_verified": "2026-10-15T01:31:55",
       "odometer_km": 20125,
       "condition": "used",
       "city": "Vancouver",
@@ -1469,7 +1386,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/58dcc8a25437.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x6/2026-bmw-x6-id38777497",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x6/2026-bmw-x6-id38777497?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:00:00",
+      "last_verified": "2026-10-15T01:32:11",
       "odometer_km": 7155,
       "condition": "used",
       "city": "Vancouver",
@@ -1495,7 +1412,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/34fbba48cf17.html",
       "source_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x7/2024-bmw-x7-id38425957",
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/bmw/x7/2024-bmw-x7-id38425957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:00:15",
+      "last_verified": "2026-10-15T01:32:27",
       "odometer_km": 50976,
       "condition": "used",
       "city": "Vancouver",
@@ -1536,21 +1453,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/cadillac/ct4-v/2026-cadillac-ct4-v-id39340973?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T20:43:42",
       "odometer_km": 4500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CTS Coupe 3.6L SIDI RWD2011 Cadillac",
-      "vin": "1G6DJ1ED4B0113018",
-      "stock": "L26077A",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/cbc56e06b118.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/cadillac/cts/2011-cadillac-cts-id39309087",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/cadillac/cts/2011-cadillac-cts-id39309087?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T19:59:13",
-      "price": 13999.0,
-      "price_currency": "CAD",
-      "odometer_km": 132408,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -1714,6 +1616,19 @@
       "province": "BC"
     },
     {
+      "name": "Equinox AWD LT2024 Chevrolet",
+      "vin": "3GNAXUEG4RL209780",
+      "stock": "H12E000",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/0ab4e4f81f83.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/chevrolet/equinox/2024-chevrolet-equinox-id39360257",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/chevrolet/equinox/2024-chevrolet-equinox-id39360257?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:20:56",
+      "odometer_km": 75684,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Malibu RS2021 Chevrolet",
       "vin": "1G1ZG5ST8MF049739",
       "stock": "H216007",
@@ -1872,19 +1787,6 @@
       "province": "BC"
     },
     {
-      "name": "Pacifica LX2017 Chrysler",
-      "vin": "2C4RC1CG5HR659528",
-      "stock": "S116009",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7da304f47c82.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/chrysler/pacifica/2017-chrysler-pacifica-id38656913",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/chrysler/pacifica/2017-chrysler-pacifica-id38656913?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:02:20",
-      "odometer_km": 93990,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Pacifica Touring L FWD2023 Chrysler",
       "vin": "2C4RC1BG0PR625691",
       "stock": "H315039",
@@ -1919,19 +1821,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/dodge/challenger/2016-dodge-challenger-id38974237?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:02:35",
       "odometer_km": 126560,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Challenger R/T2021 Dodge",
-      "vin": "2C3CDZBT7MH576204",
-      "stock": "H32E001",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/0d217b67bdd0.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/dodge/challenger/2021-dodge-challenger-id38901399",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/dodge/challenger/2021-dodge-challenger-id38901399?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:02:51",
-      "odometer_km": 27485,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2199,6 +2088,19 @@
       "province": "BC"
     },
     {
+      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
+      "vin": "1FTEW1EP8PKF17867",
+      "stock": "A116008",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d40363344812.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:21:12",
+      "odometer_km": 126880,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "F-150 Raptor2023 Ford",
       "vin": "1FTFW1RG1PFD17727",
       "stock": "G12E004",
@@ -2277,14 +2179,14 @@
       "province": "BC"
     },
     {
-      "name": "F150 Lightning 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "stock": "A116008",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/229f9e7d5d2d.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150-lightning/2023-ford-f150-lightning-id39254464",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150-lightning/2023-ford-f150-lightning-id39254464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:05:22",
-      "odometer_km": 126880,
+      "name": "F150 4x4 - Supercrew Lariat - 145 WB2017 Ford",
+      "vin": "1FTEW1EG7HKC26858",
+      "stock": "MB32A00",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/936ca3e2994e.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2017-ford-f150-id39360592",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2017-ford-f150-id39360592?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:21:25",
+      "odometer_km": 94988,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2298,19 +2200,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908339?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:05:38",
       "odometer_km": 59850,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "F150 4x4 - Supercrew Raptor - 145'' WB2019 Ford",
-      "vin": "1FTFW1RG3KFC14317",
-      "stock": "A12A015",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/68afeff899fa.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908340",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:05:54",
-      "odometer_km": 70629,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2350,19 +2239,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2023-ford-f150-id38954187?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T15:08:42",
       "odometer_km": 69790,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "F150 Raptor 4X4 SuperCrew 5.5' Box2023 Ford",
-      "vin": "1FTFW1RG4PFD17155",
-      "stock": "A22C003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/9c456b769f56.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:08:58",
-      "odometer_km": 64969,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2618,19 +2494,6 @@
     },
     {
       "name": "GV80 2.5T Advanced2024 GENESIS",
-      "vin": "KMUHBDSB0RU163172",
-      "stock": "G116006",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/02c3d9f1b492.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:12:06",
-      "odometer_km": 44278,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GV80 2.5T Advanced2024 GENESIS",
       "vin": "KMUHBDSB1RU174584",
       "stock": "G116007",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/ed21c8e79aad.html",
@@ -2677,6 +2540,19 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/gmc/acadia/2019-gmc-acadia-id39102744?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:08:43",
       "odometer_km": 133692,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Acadia AWD AT42023 GMC",
+      "vin": "1GKKNLLS9PZ158730",
+      "stock": "H261239",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/ab29598db883.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/gmc/acadia/2023-gmc-acadia-id39354605",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/gmc/acadia/2023-gmc-acadia-id39354605?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:21:39",
+      "odometer_km": 133255,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2735,19 +2611,6 @@
     },
     {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
-      "vin": "3GTUUEE87RG253780",
-      "stock": "N12B000",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/94083fc2cc9b.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:13:07",
-      "odometer_km": 18248,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
       "vin": "3GTUUEE81RG331664",
       "stock": "MB62C00",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b5ba705ec330.html",
@@ -2799,19 +2662,6 @@
       "province": "BC"
     },
     {
-      "name": "Sierra 3500HD 4WD Crew Cab Standard Box Denali2024 GMC",
-      "vin": "1GT49WE76RF386823",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7b546bb80bbd.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:14:23",
-      "odometer_km": 47624,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sierra 3500HD 4WD Crew Cab Long Box AT42024 GMC",
       "vin": "1GT49VEY1RF273378",
       "stock": "H32C000",
@@ -2820,19 +2670,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id39034450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T15:14:37",
       "odometer_km": 58496,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Terrain AWD SLE-12017 GMC",
-      "vin": "2GKFLSEK4H6306374",
-      "stock": "N216033",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b3dbd7061b75.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/gmc/terrain/2017-gmc-terrain-id39018366",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/gmc/terrain/2017-gmc-terrain-id39018366?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:09:30",
-      "odometer_km": 156701,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2890,19 +2727,6 @@
       "province": "BC"
     },
     {
-      "name": "Accord EX CVT Sedan2024 Honda",
-      "vin": "1HGCY1F30RA800299",
-      "stock": "H126200",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/8948f776baf7.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/accord/2024-honda-accord-id39222444",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/accord/2024-honda-accord-id39222444?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:15:22",
-      "odometer_km": 19696,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
       "vin": "2HGFE4F85SH005131",
       "stock": "H126271",
@@ -2955,19 +2779,6 @@
       "province": "BC"
     },
     {
-      "name": "Civic Hybrid Sport eCVT Sedan2026 Honda",
-      "vin": "2HGFE4F82TH001720",
-      "stock": "A252001",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/56e895e1d294.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:16:43",
-      "odometer_km": 18431,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Civic Sedan EX at2012 Honda",
       "vin": "2HGFB2F52CH032257",
       "stock": "26H1075",
@@ -2978,20 +2789,6 @@
       "price": 11484.0,
       "price_currency": "CAD",
       "odometer_km": 154897,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/f0a8713571e3.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2013-honda-civic-id39140074",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2013-honda-civic-id39140074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:10:32",
-      "price": 65951.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3036,6 +2833,19 @@
       "province": "BC"
     },
     {
+      "name": "Civic Sedan Touring CVT2019 Honda",
+      "vin": "2HGFC1F9XKH106002",
+      "stock": "H313039",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b72a729b39dc.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:21:55",
+      "odometer_km": 53333,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Civic Sedan LX2020 Honda",
       "vin": "2HGFC2F54LH015795",
       "stock": "A213009",
@@ -3049,14 +2859,14 @@
       "province": "BC"
     },
     {
-      "name": "Civic Sedan EX CVT2021 Honda",
-      "vin": "2HGFC2F76MH001044",
-      "stock": "H261232",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/bc33a6fda2c1.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2021-honda-civic-id39267728",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2021-honda-civic-id39267728?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:11:35",
-      "odometer_km": 71450,
+      "name": "Civic Sedan Touring CVT2020 Honda",
+      "vin": "2HGFC1F96LH101252",
+      "stock": "H113988",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/110425e53ae8.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2020-honda-civic-id39354128",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2020-honda-civic-id39354128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:22:09",
+      "odometer_km": 75942,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3243,6 +3053,19 @@
       "province": "BC"
     },
     {
+      "name": "Civic Sport CVT Sedan2025 Honda",
+      "vin": "2HGFE2F50SH103851",
+      "stock": "H126200",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d0b0e3024baa.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2025-honda-civic-id39354127",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/civic/2025-honda-civic-id39354127?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:22:23",
+      "odometer_km": 23759,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Civic Type R2026 Honda",
       "vin": "JHMFL5G46TX800044",
       "stock": "H32F000",
@@ -3268,27 +3091,14 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Hybrid EX-L AWD2024 Honda",
-      "vin": "2HKRS6H72RH216616",
-      "stock": "H213005",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/4aa4233781ed.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39281716",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39281716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:20:17",
-      "odometer_km": 41249,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CR-V Hybrid Touring AWD2024 Honda",
-      "vin": "2HKRS6H91RH212090",
-      "stock": "26H1131",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/4532f1229d24.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:20:31",
-      "odometer_km": 64412,
+      "vin": "2HKRS6H92RH208260",
+      "stock": "H127108",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b0bc4ddb55dd.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39354131",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39354131?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:22:38",
+      "odometer_km": 32649,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3333,19 +3143,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Hybrid EX-L AWD2025 Honda",
-      "vin": "2HKRS6H7XSH207295",
-      "stock": "H261255",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a836e84f6083.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:50:40",
-      "odometer_km": 22774,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CR-V Hybrid Touring AWD2025 Honda",
       "vin": "2HKRS6H96SH232499",
       "stock": "A262078",
@@ -3354,6 +3151,32 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T15:21:27",
       "odometer_km": 17621,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H79SH210043",
+      "stock": "H126280",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b7683285681d.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354130",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:22:54",
+      "odometer_km": 29827,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H74SH217692",
+      "stock": "H261291",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a6b2f9592d50.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354604",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354604?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:23:08",
+      "odometer_km": 34976,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3380,6 +3203,21 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39191898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T15:22:00",
       "odometer_km": 68824,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V EX 4AT2003 Honda",
+      "vin": "JHLRD78853C800975",
+      "stock": "H126200",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/1a278a3de10d.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39354132",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v/2003-honda-cr-v-id39354132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:23:24",
+      "price": 8750.0,
+      "price_currency": "CAD",
+      "odometer_km": 214000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3478,19 +3316,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Sport AWD2025 Honda",
-      "vin": "2HKRS4H56SH105429",
-      "stock": "H126102",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/32cf94b25666.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:22:31",
-      "odometer_km": 18395,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CRV EX-L 4WD at2011 Honda",
       "vin": "5J6RE4H75BL808731",
       "stock": "N226203",
@@ -3584,19 +3409,6 @@
       "province": "BC"
     },
     {
-      "name": "HR-V LX AWD CVT2025 Honda",
-      "vin": "3CZRZ2H33SM110199",
-      "stock": "H261097",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/06d90652aa73.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:23:33",
-      "odometer_km": 51228,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "HR-V LX 2WD CVT2025 Honda",
       "vin": "3CZRZ1H31SM101379",
       "stock": "H126269",
@@ -3637,13 +3449,13 @@
     },
     {
       "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H56SM108142",
-      "stock": "H126119",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/5e948c435ec0.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:24:32",
-      "odometer_km": 12300,
+      "vin": "3CZRZ2H54SM110536",
+      "stock": "H313039",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/1a89cc465f9c.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:23:38",
+      "odometer_km": 17586,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -3657,19 +3469,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/odyssey/2019-honda-odyssey-id39346651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:14:10",
       "odometer_km": 52268,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Odyssey Touring2023 Honda",
-      "vin": "5FNRL6H8XPB500626",
-      "stock": "H217003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/1ee8085a3c3d.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:24:47",
-      "odometer_km": 49160,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4120,19 +3919,6 @@
       "province": "BC"
     },
     {
-      "name": "Kona Electric Preferred FWD2024 Hyundai",
-      "vin": "KM8HC3A68RU012073",
-      "stock": "A12C015",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2a27f7185d96.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:29:52",
-      "odometer_km": 87717,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Kona 2.0L AWD Preferred2019 Hyundai",
       "vin": "KM8K2CAA9KU218747",
       "stock": "26388A",
@@ -4180,6 +3966,19 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/santa-cruz/2025-hyundai-santa-cruz-id39164063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T15:30:39",
       "odometer_km": 18720,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Santa Fe Plug-In Hybrid Luxury2022 Hyundai",
+      "vin": "KM8S7DA24NU031811",
+      "stock": "G26090A",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/234ed7ce52c6.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/santa-fe-plug-in-hybrid/2022-hyundai-santa-fe-plug-in-hybrid-id39354085",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/santa-fe-plug-in-hybrid/2022-hyundai-santa-fe-plug-in-hybrid-id39354085?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:23:52",
+      "odometer_km": 34201,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4258,6 +4057,32 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/sonata/2023-hyundai-sonata-id39340884?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T20:44:56",
       "odometer_km": 86627,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sonata N Line Ultimate2025 Hyundai",
+      "vin": "KMHL54JC6SA497692",
+      "stock": "G26004A",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/f8f43351a0d2.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/sonata/2025-hyundai-sonata-id39354086",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/sonata/2025-hyundai-sonata-id39354086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:24:06",
+      "odometer_km": 25234,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Tucson Hybrid Ultimate AWD2025 Hyundai",
+      "vin": "KM8JCDD14SU295875",
+      "stock": "L26017A",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/f3a305ff3a5a.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/tucson-hybrid/2025-hyundai-tucson-hybrid-id39354433",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/hyundai/tucson-hybrid/2025-hyundai-tucson-hybrid-id39354433?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:24:20",
+      "odometer_km": 38683,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4689,19 +4514,6 @@
       "province": "BC"
     },
     {
-      "name": "Grand Cherokee 4xe w/Luxury Tech Group II2023 Jeep",
-      "vin": "1C4RJYB66P8800706",
-      "stock": "A22E002",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/620f88aa8246.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/jeep/grand-cherokee/2023-jeep-grand-cherokee-id39089022",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/jeep/grand-cherokee/2023-jeep-grand-cherokee-id39089022?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:36:36",
-      "odometer_km": 27950,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Wrangler 4xe Sahara 4 Door 4x42024 Jeep",
       "vin": "1C4RJXP63RW215681",
       "stock": "L26238B",
@@ -4710,6 +4522,21 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/jeep/wrangler-4xe/2024-jeep-wrangler-4xe-id38887508?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T15:36:53",
       "odometer_km": 7700,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Wrangler Rubicon 2D Utility 4WD2012 Jeep",
+      "vin": "1C4GJWBG9CL180042",
+      "stock": "A316058",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/59f4f6016b45.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/jeep/wrangler/2012-jeep-wrangler-id39290046",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/jeep/wrangler/2012-jeep-wrangler-id39290046?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:24:35",
+      "price": 15887.0,
+      "price_currency": "CAD",
+      "odometer_km": 153000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -4801,21 +4628,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/kia/k4/2026-kia-k4-id39351496?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:22:59",
       "odometer_km": 1468,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Optima EX2015 Kia",
-      "vin": "KNAGN4A79F5611107",
-      "stock": "6T3835A",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/31e7a743766d.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/kia/optima/2015-kia-optima-id38804546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:23:15",
-      "price": 12115.0,
-      "price_currency": "CAD",
-      "odometer_km": 64859,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5424,20 +5236,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/dbd706e8650b.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-sport/2011-land-rover-range-rover-sport-id39267894",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-sport/2011-land-rover-range-rover-sport-id39267894?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:27:06",
-      "price": 65951.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover Sport SVR V8 Supercharged2016 Land Rover",
       "vin": "SALWZ2EF5GA544547",
       "stock": "DL19665",
@@ -5736,19 +5534,6 @@
       "province": "BC"
     },
     {
-      "name": "Range Rover Sport P400 Dynamic SE2025 Land Rover",
-      "vin": "SAL1L9FU5SA449299",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/6d3e1409938f.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:49:27",
-      "odometer_km": 12000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover Sport P400 Dynamic HSE2025 Land Rover",
       "vin": "SAL1M9FUXSA438280",
       "stock": "L26646A",
@@ -5840,26 +5625,14 @@
       "province": "BC"
     },
     {
-      "name": "Range Rover Velar P340 R-Dynamic S2023 Land Rover",
-      "vin": "SALYT2EU8PA361412",
-      "stock": "2664997",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/1f9d8ce70e99.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39124907",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39124907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:50:42",
-      "odometer_km": 46170,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Velar S - Local 1 owner2023 Land Rover",
-      "vin": "SALYJ2EX4PA352237",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/ea80da931c13.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39313368",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39313368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:50:57",
-      "odometer_km": 40291,
+      "name": "Range Rover Velar P250 S2022 Land Rover",
+      "vin": "SALYJ2EX0NA344603",
+      "stock": "JL23002",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/4d0072a5868a.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-velar/2022-land-rover-range-rover-velar-id39309971",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover-velar/2022-land-rover-range-rover-velar-id39309971?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:24:52",
+      "odometer_km": 52018,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -5965,20 +5738,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover/2017-land-rover-range-rover-id39264320?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:30:30",
       "odometer_km": 104891,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/662e2c36371f.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover/2018-land-rover-range-rover-id38462868",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/land-rover/range-rover/2018-land-rover-range-rover-id38462868?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:30:48",
-      "price": 65951.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6193,18 +5952,6 @@
     },
     {
       "name": "NX 350h Premium AWD2026 Lexus",
-      "vin": "2T2GKCEZ6TC070397",
-      "stock": "A215009",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/6ed10150c614.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:55:12",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "NX 350h Premium AWD2026 Lexus",
       "vin": "2T2GKCEZ0TC067799",
       "stock": "A215009",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/f6f1c7508621.html",
@@ -6410,19 +6157,6 @@
       "province": "BC"
     },
     {
-      "name": "Grecale Modena Limited Edition Canada2023 Maserati",
-      "vin": "ZN682AVM7P7412060",
-      "stock": "JL12B07",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/25ab3ba0cf51.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/maserati/grecale-modena/2023-maserati-grecale-modena-id38089023",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/maserati/grecale-modena/2023-maserati-grecale-modena-id38089023?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:57:48",
-      "odometer_km": 44373,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Levante GranSport2020 Maserati",
       "vin": "ZN661XUS2LX349201",
       "stock": "JL11708",
@@ -6457,21 +6191,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mazda/cx-30/2024-mazda-cx-30-id39297078?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T15:58:17",
       "odometer_km": 23611,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CX-5 GS AWD at2014 Mazda",
-      "vin": "JM3KE4CY5E0310744",
-      "stock": "26454A",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/0a51822dcf61.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mazda/cx-5/2014-mazda-cx-5-id39281955",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mazda/cx-5/2014-mazda-cx-5-id39281955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:35:17",
-      "price": 13699.0,
-      "price_currency": "CAD",
-      "odometer_km": 155036,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6555,19 +6274,6 @@
       "province": "BC"
     },
     {
-      "name": "3 Sport 50th Anniversary Edition2018 Mazda",
-      "vin": "JM1BN1L71J1183395",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2506781d2f37.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mazda/mazda3-sport/2018-mazda-mazda3-sport-id39274742",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mazda/mazda3-sport/2018-mazda-mazda3-sport-id39274742?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T15:59:19",
-      "odometer_km": 89690,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "3 Sport GS w/Luxury Package2023 Mazda",
       "vin": "JM1BPAL70P1614098",
       "stock": "A22E002",
@@ -6606,6 +6312,19 @@
       "price": 3900.0,
       "price_currency": "CAD",
       "odometer_km": 230822,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "3 Sport GT AWD2023 Mazda",
+      "vin": "JM1BPBMM4P1612655",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/ea28b0a71662.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mazda/mazda3/2023-mazda-mazda3-id39354824",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mazda/mazda3/2023-mazda-mazda3-id39354824?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:25:06",
+      "odometer_km": 13730,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6712,19 +6431,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/amg-gt53/2024-mercedes-benz-amg-gt53-id39164015?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:00:05",
       "odometer_km": 10140,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "AMG GT63 S 4MATIC+ Coupe2020 Mercedes-Benz",
-      "vin": "WDD7X8KB0LA014458",
-      "stock": "MB72A00",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/18a7cd470027.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/amg-gt63/2020-mercedes-benz-amg-gt63-id39109206",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/amg-gt63/2020-mercedes-benz-amg-gt63-id39109206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:38:23",
-      "odometer_km": 54850,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -6951,6 +6657,19 @@
       "province": "BC"
     },
     {
+      "name": "C43 AMG 4MATIC Sedan2023 Mercedes-Benz",
+      "vin": "W1KAF8HB0PR110677",
+      "stock": "5B9256B",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/67cf7e3208f5.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/c43-amg/2023-mercedes-benz-c43-amg-id39354492",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/c43-amg/2023-mercedes-benz-c43-amg-id39354492?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:25:22",
+      "odometer_km": 27518,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "C43 AMG 4MATIC Sedan2025 Mercedes-Benz",
       "vin": "W1KAF8HB9SR287009",
       "stock": "MB71703",
@@ -7095,19 +6814,6 @@
     },
     {
       "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB9TN573993",
-      "stock": "MB32B00",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b3b74b82de40.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:02:55",
-      "odometer_km": 37410,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HB9TN595802",
       "stock": "MB11816",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/83f038f3c2d3.html",
@@ -7141,19 +6847,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/cla45-amg/2023-mercedes-benz-cla45-amg-id39325583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T20:45:56",
       "odometer_km": 35556,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CLE300 4MATIC Coupe2024 Mercedes-Benz",
-      "vin": "W1KMJ4HB4RF012261",
-      "stock": "2652599",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/5d8dce48ce47.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/cle300/2024-mercedes-benz-cle300-id39264302",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/cle300/2024-mercedes-benz-cle300-id39264302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:03:43",
-      "odometer_km": 25000,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7223,19 +6916,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/cls450/2019-mercedes-benz-cls450-id38893645?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:43:55",
       "odometer_km": 49808,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "E-Class E53 AMG 4MATIC Wagon w/Premium Package2020 Mercedes-Benz",
-      "vin": "WDDZH6BB4LA720147",
-      "stock": "A22C002",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2eef6a12470e.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/e-class/2020-mercedes-benz-e-class-id38699026",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/e-class/2020-mercedes-benz-e-class-id38699026?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:04:13",
-      "odometer_km": 86916,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7501,19 +7181,6 @@
       "province": "BC"
     },
     {
-      "name": "EQE350 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "4JGGM1CB4PA008527",
-      "stock": "MB51701",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/4366b71d1f27.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:07:57",
-      "odometer_km": 46079,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "EQE500 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KEG2CBXPF028413",
       "stock": "MB11815",
@@ -7561,19 +7228,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/eqs580/2022-mercedes-benz-eqs580-id39229074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:45:31",
       "odometer_km": 43917,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "EQS580 SUV2023 Mercedes-Benz",
-      "vin": "4JGDM4EB9PA012042",
-      "stock": "MB72F00",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/4016d2af5c73.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/eqs580/2023-mercedes-benz-eqs580-id39080432",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/eqs580/2023-mercedes-benz-eqs580-id39080432?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:08:57",
-      "odometer_km": 25145,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7698,20 +7352,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/1f10e0ba15e6.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39042750",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39042750?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:48:06",
-      "price": 65951.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "G63 AMG SUV2021 Mercedes-Benz",
       "vin": "W1NYC7HJ0MX368216",
       "stock": "6T4038A",
@@ -7720,19 +7360,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/g63-amg/2021-mercedes-benz-g63-amg-id39309145?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:48:22",
       "odometer_km": 54669,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "G63 AMG SUV2024 Mercedes-Benz",
-      "vin": "W1NYC7HJ2RX498652",
-      "stock": "2764725",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7622ae4ad881.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:09:12",
-      "odometer_km": 20284,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7828,19 +7455,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39332954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:49:35",
       "odometer_km": 38900,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLA250 4MATIC SUV2020 Mercedes-Benz",
-      "vin": "WDCTG4GB0LJ683138",
-      "stock": "2652831",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/f572848f4e31.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gla250/2020-mercedes-benz-gla250-id39136121",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gla250/2020-mercedes-benz-gla250-id39136121?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:49:51",
-      "odometer_km": 77550,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -7964,6 +7578,19 @@
     },
     {
       "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "W1N4M4HB6PW273950",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/ac7d3a92703a.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glb250/2023-mercedes-benz-glb250-id39274818",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glb250/2023-mercedes-benz-glb250-id39274818?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:25:36",
+      "odometer_km": 36500,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1N4M4HB1PW297749",
       "stock": "2664887",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/bdfb662fc963.html",
@@ -8036,6 +7663,19 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2016-mercedes-benz-glc300-id38827123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:51:26",
       "odometer_km": 189471,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2020 Mercedes-Benz",
+      "vin": "WDC0G8EB5LV205402",
+      "stock": "2665512",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d1df63c103eb.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2020-mercedes-benz-glc300-id39354374",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2020-mercedes-benz-glc300-id39354374?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:25:52",
+      "odometer_km": 77800,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8159,6 +7799,19 @@
     },
     {
       "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB8NV394340",
+      "stock": "26B3329",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2a44276c0cfa.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39254542",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39254542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:26:07",
+      "odometer_km": 35150,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N0G8EB1NV394163",
       "stock": "2665542",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/dbbc875ab00f.html",
@@ -8223,6 +7876,19 @@
       "province": "BC"
     },
     {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB0NV377094",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/6eb43ab996d8.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39360579",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39360579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:26:23",
+      "odometer_km": 60700,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1NKM4HB7PF040179",
       "stock": "6T8452A",
@@ -8270,32 +7936,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39314821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T19:51:56",
       "odometer_km": 53837,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1NKM4HB4PF039393",
-      "stock": "MB11816",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/c21dd91874ee.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39332958",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39332958?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T20:46:40",
-      "odometer_km": 43078,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "W1NKM4HB7RF064551",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/314b49b03631.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id39150651",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id39150651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:12:33",
-      "odometer_km": 33650,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8426,19 +8066,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39281938?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:15:04",
       "odometer_km": 6267,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1NKM5GB2SF337778",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/063df06a96a3.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:15:21",
-      "odometer_km": 15500,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8613,19 +8240,6 @@
       "province": "BC"
     },
     {
-      "name": "GLE350 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "4JGFB4KB8NA750544",
-      "stock": "2665804",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/356c45aac9f7.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39281943",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39281943?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:58:21",
-      "odometer_km": 47020,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GLE350 4MATIC SUV2024 Mercedes-Benz",
       "vin": "4JGFB4FB8RB025083",
       "stock": "MB71703",
@@ -8730,15 +8344,14 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/976e29a366e3.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39102903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:58:40",
-      "price": 65951.0,
-      "price_currency": "CAD",
+      "name": "GLE350d 4MATIC2016 Mercedes-Benz",
+      "vin": "4JGDA2EB5GA808588",
+      "stock": "2652135",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/13a062c9da9b.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39354372",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39354372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:26:39",
+      "odometer_km": 192470,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8778,19 +8391,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle400/2018-mercedes-benz-gle400-id38931514?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T20:59:25",
       "odometer_km": 111042,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE43 AMG 4MATIC SUV2018 Mercedes-Benz",
-      "vin": "4JGDA6EB3JB115480",
-      "stock": "6T7921A",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/e837e86181d7.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T20:59:42",
-      "odometer_km": 74164,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -8900,45 +8500,6 @@
       "province": "BC"
     },
     {
-      "name": "GLE450 4MATIC SUV - Local, 1 owner, no major accidents2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB261563",
-      "stock": "LR26225",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/76613db50b92.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:19:24",
-      "odometer_km": 41410,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB057166",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/131b7cc6d01a.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:19:40",
-      "odometer_km": 55722,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KBXRB136648",
-      "stock": "2665694",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/72e71e0fe60e.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:19:56",
-      "odometer_km": 18408,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
       "vin": "4JGFB5KB7RB182941",
       "stock": "MB71703",
@@ -8973,6 +8534,19 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39184683?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:20:40",
       "odometer_km": 8297,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KB6TB532471",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/59ab1009f1e0.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39360578",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39360578?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:26:53",
+      "odometer_km": 10291,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9173,32 +8747,6 @@
       "province": "BC"
     },
     {
-      "name": "GLS450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFF5KE7RB169606",
-      "stock": "2651322",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d39539d3e835.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gls450/2024-mercedes-benz-gls450-id39140472",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gls450/2024-mercedes-benz-gls450-id39140472?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:22:40",
-      "odometer_km": 46650,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLS450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFF5KE4TB506997",
-      "stock": "MB72E00",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/0c7776537875.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gls450/2026-mercedes-benz-gls450-id38664501",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/gls450/2026-mercedes-benz-gls450-id38664501?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:22:57",
-      "odometer_km": 19050,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GLS63 AMG 4MATIC+ SUV2021 Mercedes-Benz",
       "vin": "4JGFF8KE6MA281961",
       "stock": "2665192",
@@ -9305,6 +8853,21 @@
       "province": "BC"
     },
     {
+      "name": "SL550 Roadster2015 Mercedes-Benz",
+      "vin": "WDDJK7DA7FF036273",
+      "stock": "MB62F00",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2061fb033af5.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/sl550/2015-mercedes-benz-sl550-id39360577",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/sl550/2015-mercedes-benz-sl550-id39360577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:27:07",
+      "price": 57188.0,
+      "price_currency": "CAD",
+      "odometer_km": 58588,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "SL550 Roadster2018 Mercedes-Benz",
       "vin": "WDDJK7DA6JF053042",
       "stock": "MB71303",
@@ -9371,19 +8934,6 @@
     },
     {
       "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
-      "vin": "W1Y4KBHY3RP612744",
-      "stock": "2665870",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/bfccc72060af.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:23:56",
-      "odometer_km": 85789,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
       "vin": "W1Y4KBHY4RP673603",
       "stock": "2665900",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/dd8c7cc57fda.html",
@@ -9417,20 +8967,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39056130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:04:33",
       "odometer_km": 152000,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/8e1ccaaa1a9a.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:04:49",
-      "price": 65951.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9566,20 +9102,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d1e282bdabdd.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/altima/2015-nissan-altima-id38745332",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/altima/2015-nissan-altima-id38745332?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:05:51",
-      "price": 65951.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Ariya Premiere e-4orce2023 Nissan",
       "vin": "JN1DF0CD5PM704103",
       "stock": "N212035",
@@ -9601,19 +9123,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39158052?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:26:42",
       "odometer_km": 21123,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ARIYA EVOLVE+ e-4ORCE AWD2024 Nissan",
-      "vin": "JN1DF0CD7RM734917",
-      "stock": "N22F000",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/30d3d33dac28.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39297738",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39297738?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:52:42",
-      "odometer_km": 33332,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9762,19 +9271,6 @@
     },
     {
       "name": "Leaf Plus SL2023 Nissan",
-      "vin": "1N4CZ1DV5PC556429",
-      "stock": "N226104",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/32d94060bd08.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:28:03",
-      "odometer_km": 16296,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Leaf Plus SL2023 Nissan",
       "vin": "1N4CZ1DVXPC562730",
       "stock": "N226102",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2bc14a7034f5.html",
@@ -9795,20 +9291,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/murano/2017-nissan-murano-id39290370?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:07:43",
       "odometer_km": 135259,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/9a7110e36446.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id38604589",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id38604589?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:08:00",
-      "price": 65951.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -9969,19 +9451,6 @@
       "province": "BC"
     },
     {
-      "name": "Qashqai SV AWD CVT2023 Nissan",
-      "vin": "JN1BJ1BW1PW101314",
-      "stock": "N226102",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/e04d97b8e2a8.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:30:58",
-      "odometer_km": 32953,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Rogue SV2015 Nissan",
       "vin": "5N1AT2MV7FC836274",
       "stock": "N226102",
@@ -10116,19 +9585,6 @@
       "province": "BC"
     },
     {
-      "name": "Rogue Platinum CVT (2)2023 Nissan",
-      "vin": "JN8BT3DD5PW321719",
-      "stock": "N214035",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/3b07ece3d4ec.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39281909",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39281909?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:32:16",
-      "odometer_km": 47937,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Rogue AWD SV Moonroof2024 Nissan",
       "vin": "JN8BT3BB9RW176219",
       "stock": "A12E002",
@@ -10137,19 +9593,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39034542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:32:30",
       "odometer_km": 24681,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Rogue AWD SL2024 Nissan",
-      "vin": "JN8BT3CB1RW281867",
-      "stock": "N212034",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/832688b63184.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39116844",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39116844?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:32:44",
-      "odometer_km": 13289,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10207,15 +9650,14 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/42a41f624e93.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id38656917",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id38656917?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:10:18",
-      "price": 65951.0,
-      "price_currency": "CAD",
+      "name": "Rogue AWD S2025 Nissan",
+      "vin": "JN8BT3AB5SW156251",
+      "stock": "N214035",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/33d9165e8fbe.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/rogue/2025-nissan-rogue-id39360576",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/rogue/2025-nissan-rogue-id39360576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:27:22",
+      "odometer_km": 24477,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10268,19 +9710,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:34:35",
       "odometer_km": 58331,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sentra S Plus CVT2024 Nissan",
-      "vin": "3N1AB8BVXRY342115",
-      "stock": "N212035",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/ea6a65c7bae2.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260691",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:34:50",
-      "odometer_km": 6096,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10481,19 +9910,6 @@
       "province": "BC"
     },
     {
-      "name": "Cayenne S AWD2025 Porsche",
-      "vin": "WP1AL2AY8SDA19658",
-      "stock": "2652930",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d46fb31891f4.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/porsche/cayenne/2025-porsche-cayenne-id39102213",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/porsche/cayenne/2025-porsche-cayenne-id39102213?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:37:09",
-      "odometer_km": 7889,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Macan S2018 Porsche",
       "vin": "WP1AB2A51JLB35412",
       "stock": "LR26163",
@@ -10645,19 +10061,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:38:23",
       "odometer_km": 48266,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "2500 Big Horn 4x4 Crew Cab 6'4 Box2024 Ram",
-      "vin": "3C6UR5DL0RG408474",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/8bd9c3009db4.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:38:37",
-      "odometer_km": 31792,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10860,27 +10263,14 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Wilderness CVT2024 Subaru",
-      "vin": "4S4GUHU66R3777418",
-      "stock": "S12C002",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/41785697b37d.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38599309",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38599309?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:40:23",
-      "odometer_km": 5243,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC1RH265188",
-      "stock": "S260772",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a980e479d93a.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:40:39",
-      "odometer_km": 62357,
+      "name": "Crosstrek Outdoor CVT2021 Subaru",
+      "vin": "JF2GTHSC0MH345629",
+      "stock": "S113023",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/97bdd46e157b.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2021-subaru-crosstrek-id39360585",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2021-subaru-crosstrek-id39360585?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:27:36",
+      "odometer_km": 62686,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -10894,19 +10284,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38706709?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T16:40:57",
       "odometer_km": 20634,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC7RH245284",
-      "stock": "S260872",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/858d258b037b.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:41:14",
-      "odometer_km": 40322,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11432,19 +10809,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Touring CVT2026 Subaru",
-      "vin": "JF2GUHDC7T8233810",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/540d0c7f535e.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T16:52:17",
-      "odometer_km": 24785,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Forester 2.5i Touring at2015 Subaru",
       "vin": "JF2SJCHCXFH800693",
       "stock": "S260828",
@@ -11481,6 +10845,19 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/forester/2020-subaru-forester-id39140310?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:16:17",
       "odometer_km": 136873,
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Forester Convenience CVT2021 Subaru",
+      "vin": "JF2SKEFC7MH550581",
+      "stock": "S261371",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b2742cbd23fc.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/forester/2021-subaru-forester-id39354450",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/forester/2021-subaru-forester-id39354450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:27:51",
+      "odometer_km": 55015,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -11903,19 +11280,6 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC6TH462078",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/84ed2cee4d0c.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:00:37",
-      "odometer_km": 4229,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC9TH462656",
       "stock": "S115017",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/72166ebc0086.html",
@@ -12027,19 +11391,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/impreza/2026-subaru-impreza-id39164065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T17:03:17",
       "odometer_km": 16228,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Legacy GT CVT2024 Subaru",
-      "vin": "4S3BWHH66R3005441",
-      "stock": "S260859",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/00bf1d93b84e.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:03:33",
-      "odometer_km": 51914,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12229,20 +11580,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/214cc4e63735.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/wrx/2020-subaru-wrx-id39302934",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/wrx/2020-subaru-wrx-id39302934?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:18:24",
-      "price": 65951.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "WRX 4Dr Sport 6sp2023 Subaru",
       "vin": "JF1VBAF68P9804463",
       "stock": "S260758",
@@ -12251,19 +11588,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/wrx/2023-subaru-wrx-id39346650?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:18:38",
       "odometer_km": 30728,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "WRX Sport2024 Subaru",
-      "vin": "JF1VBAH64R9812382",
-      "stock": "G116006",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/5fbf44813d2e.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:05:39",
-      "odometer_km": 20176,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12342,19 +11666,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39308955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T17:06:40",
       "odometer_km": 60800,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Model 3 Long Range AWD2025 Tesla",
-      "vin": "5YJ3E1EB1SF922604",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d7aef1ee9fdb.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:06:56",
-      "odometer_km": 10092,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12490,19 +11801,6 @@
       "province": "BC"
     },
     {
-      "name": "Camry Hybrid SE2023 Toyota",
-      "vin": "4T1B21HK8PU019683",
-      "stock": "2550396",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/eaf4f9298609.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/camry-hybrid/2023-toyota-camry-hybrid-id39274860",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/camry-hybrid/2023-toyota-camry-hybrid-id39274860?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:08:01",
-      "odometer_km": 129601,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Camry 4-Door Sedan LE 8A2020 Toyota",
       "vin": "4T1G11AK0LU989315",
       "stock": "2652817",
@@ -12511,19 +11809,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/camry/2020-toyota-camry-id39281927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:20:37",
       "odometer_km": 173690,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Camry SE2024 Toyota",
-      "vin": "4T1G11AK6RU241032",
-      "stock": "H116985",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7b039ba62f6e.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:08:15",
-      "odometer_km": 41652,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12674,19 +11959,6 @@
       "province": "BC"
     },
     {
-      "name": "Crown Limited2023 Toyota",
-      "vin": "JTDAAAAF5P3012731",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/72b40b57ca9e.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/crown/2023-toyota-crown-id39281940",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/crown/2023-toyota-crown-id39281940?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:09:16",
-      "odometer_km": 37130,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "GR Supra 3.0 Premium2022 Toyota",
       "vin": "WZ1DB0C01NW051259",
       "stock": "S12F000",
@@ -12695,32 +11967,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39108527?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:22:55",
       "odometer_km": 50204,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Highlander Hybrid XLE AWD2023 Toyota",
-      "vin": "5TDABRCH9PS566007",
-      "stock": "H117987",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/43c1c477e3cb.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T19:53:31",
-      "odometer_km": 50931,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Highlander Hybrid XLE AWD2024 Toyota",
-      "vin": "5TDKBRCH0RS140505",
-      "stock": "MB61216",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/578613ee8167.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:09:30",
-      "odometer_km": 72419,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12806,14 +12052,16 @@
       "province": "BC"
     },
     {
-      "name": "Prius Plug-in Hybrid SE2024 Toyota",
-      "vin": "JTDACACU7R3013551",
-      "stock": "H22C000",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7a1830d4ad58.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39184515",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39184515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:10:48",
-      "odometer_km": 51539,
+      "name": "Prius c eCVT2012 Toyota",
+      "vin": "JTDKDTB39C1025337",
+      "stock": "A215010",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2ccceb99ab90.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius-c/2012-toyota-prius-c-id39354822",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius-c/2012-toyota-prius-c-id39354822?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:28:06",
+      "price": 13880.0,
+      "price_currency": "CAD",
+      "odometer_km": 142489,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12827,32 +12075,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius-prime/2023-toyota-prius-prime-id39274862?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T17:11:04",
       "odometer_km": 84801,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Prius Prime XSE2024 Toyota",
-      "vin": "JTDACACUXR3030506",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/7e1bc1df8a68.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:11:18",
-      "odometer_km": 48154,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Prius AWD-e2021 Toyota",
-      "vin": "JTDL9MFU0M3029569",
-      "stock": "S116010",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/2670609ff73f.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius/2021-toyota-prius-id39080480",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/prius/2021-toyota-prius-id39080480?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:23:42",
-      "odometer_km": 65359,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -12947,19 +12169,6 @@
       "province": "BC"
     },
     {
-      "name": "Sienna Hybrid Sienna XSE AWD 7-Pass2025 Toyota",
-      "vin": "5TDGSKFC3SS214177",
-      "stock": "H12E000",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/404201bfad6b.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:12:49",
-      "odometer_km": 19500,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Sienna Hybrid XSE 7-Pass2025 Toyota",
       "vin": "5TDGRKEC2SS264212",
       "stock": "A215010",
@@ -12968,19 +12177,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39200024?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T17:13:05",
       "odometer_km": 25883,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Sienna Hybrid2025 Toyota",
-      "vin": "5TDGSKFC3SS203387",
-      "stock": "2665793",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/042d610b3fc5.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:13:21",
-      "odometer_km": 11267,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13012,41 +12208,14 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Burrard Acura",
-      "vin": "19UDE5G91TA800259",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/fae2fcc6b414.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39308961",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39308961?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:24:32",
-      "price": 65951.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Tacoma 4X4 Double Cab 6A2023 Toyota",
-      "vin": "3TYDZ5BN8PT033854",
-      "stock": "A12C015",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/e52d78d17bb6.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39264297",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39264297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:14:10",
-      "odometer_km": 32628,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Tacoma 4X4 Double Cab 6A SB2023 Toyota",
-      "vin": "3TYCZ5AN1PT125594",
-      "stock": "MB12A00",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/c598233b5af0.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39325623",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39325623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T20:48:23",
-      "odometer_km": 21488,
+      "name": "Sienna XLE AWD 7-Passenger V62017 Toyota",
+      "vin": "5TDDZ3DC8HS187462",
+      "stock": "H32E002",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/5aff09553064.html",
+      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39354863",
+      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39354863?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-15T01:28:20",
+      "odometer_km": 76900,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13125,19 +12294,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/tundra-hybrid/2024-toyota-tundra-hybrid-id38992119?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T17:15:08",
       "odometer_km": 52888,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Tundra 4X4 Double Cab Limited TRD Off Road 6.5-ft Bed2024 Toyota",
-      "vin": "5TFJA5DA0RX143875",
-      "stock": "A216019",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/d4b8b8b81b26.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:15:24",
-      "odometer_km": 47339,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -13255,32 +12411,6 @@
       "dealer_url": "https://www.burrardacura.ca/en/used-inventory/volkswagen/jetta/2021-volkswagen-jetta-id39245406?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T21:26:37",
       "odometer_km": 150850,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Jetta Comfortline w/Sport Package2025 Volkswagen",
-      "vin": "3VWSX7BU8SM089987",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b17057cd4ae7.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:16:24",
-      "odometer_km": 29017,
-      "condition": "used",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Taos Comfortline Black Edition2025 Volkswagen",
-      "vin": "3VV2C7B28SM042246",
-      "stock": "G115005",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/1bb49e9bda30.html",
-      "source_url": "https://www.burrardacura.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150",
-      "dealer_url": "https://www.burrardacura.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T17:16:38",
-      "odometer_km": 37364,
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
