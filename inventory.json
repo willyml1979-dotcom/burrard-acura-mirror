@@ -1,7 +1,7 @@
 {
   "dealership": "Burrard Acura",
-  "generated_at": "2026-10-21T21:23:46",
-  "vehicle_count": 1101,
+  "generated_at": "2026-10-21T23:53:24",
+  "vehicle_count": 1114,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13081,18 +13081,6 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H79TM102934",
-      "stock": "A260197",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0fccbd332b4e.html",
-      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T21:28:25",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H70TM102837",
       "stock": "A260195",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/783c144b2c2b.html",
@@ -13107,10 +13095,10 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H7XTM102926",
       "stock": "A260196",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c12ea76da16c.html",
-      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206",
-      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T15:52:41",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/756a3409fa93.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:45:38",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13123,6 +13111,18 @@
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-20T15:52:56",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM101761",
+      "stock": "A262089",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b69578799a23.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38875001",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38875001?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:45:55",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13242,7 +13242,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/06c4afc7c1dc.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945046",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945046?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:54:14",
+      "last_verified": "2026-10-21T23:49:39",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13254,7 +13254,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/4ff012844b9d.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945047",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:54:30",
+      "last_verified": "2026-10-21T23:49:54",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13266,7 +13266,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/78550fb75bb1.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945048",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945048?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:54:45",
+      "last_verified": "2026-10-21T23:50:09",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13278,7 +13278,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2df8efe3455b.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38953600",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38953600?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:54:59",
+      "last_verified": "2026-10-21T23:50:24",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13297,12 +13297,24 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM102828",
+      "stock": "A262092",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2fcaa4769b11.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38967676",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38967676?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:46:10",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H79TM103274",
       "stock": "A260221",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/689496d01ec3.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992120",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992120?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:55:13",
+      "last_verified": "2026-10-21T23:50:39",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13314,7 +13326,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0ab45e563579.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992121",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992121?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:55:29",
+      "last_verified": "2026-10-21T23:50:54",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13326,7 +13338,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2a655953a416.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:55:44",
+      "last_verified": "2026-10-21T23:51:08",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13338,7 +13350,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b421ca81c706.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:55:59",
+      "last_verified": "2026-10-21T23:51:22",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13350,7 +13362,31 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/17cb48b73c47.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:56:13",
+      "last_verified": "2026-10-21T23:51:39",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H78TM103167",
+      "stock": "A262098",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/1161088d0a0a.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999980",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999980?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:46:24",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM101763",
+      "stock": "A262099",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a7d72e80298c.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999981",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999981?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:46:39",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13374,7 +13410,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/1791ab2f251e.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:56:28",
+      "last_verified": "2026-10-21T23:51:55",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13386,7 +13422,19 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/ef40281c2cfa.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T21:56:43",
+      "last_verified": "2026-10-21T23:52:11",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H78TM103508",
+      "stock": "A262110",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3eb19d540682.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39140547",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39140547?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:46:53",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13398,7 +13446,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/7e8862f58aa1.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150640",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150640?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:33:30",
+      "last_verified": "2026-10-21T23:52:26",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13428,13 +13476,13 @@
       "province": "BC"
     },
     {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H7XTM103574",
-      "stock": "A260175",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3811061ad6c4.html",
-      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900",
-      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:36:18",
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H51TM103543",
+      "stock": "A262108",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/15086ae134dd.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39184732",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39184732?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:47:08",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13446,7 +13494,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2cb11a286e0a.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192158",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192158?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:33:46",
+      "last_verified": "2026-10-21T23:52:41",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13537,12 +13585,24 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM103861",
+      "stock": "A262109",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/f22a03c78f71.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39274913",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39274913?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:47:24",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H78TM104111",
       "stock": "A260252",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0e26f813cf4d.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332878",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332878?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:34:01",
+      "last_verified": "2026-10-21T23:52:55",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13554,7 +13614,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3acd6bcec760.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332879",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332879?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:34:17",
+      "last_verified": "2026-10-21T23:53:11",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13695,6 +13755,18 @@
     },
     {
       "name": "Integra A-Spec CVT2026 Acura",
+      "vin": "19UDE4H32TA800646",
+      "stock": "A260135",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/26d01cd94a02.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:47:37",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Integra A-Spec CVT2026 Acura",
       "vin": "19UDE4H36TA800648",
       "stock": "A260136",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/929b0546e9f3.html",
@@ -13773,6 +13845,30 @@
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T03:27:41",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H61TA800891",
+      "stock": "A262105",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/568a85e182b4.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39200256",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39200256?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:47:51",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H68TA800726",
+      "stock": "A262072",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/9ba36dadec85.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39360598",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39360598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:48:06",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14047,6 +14143,30 @@
       "province": "BC"
     },
     {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H96TL804384",
+      "stock": "A262093",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/48c7e587d44c.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38908464",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38908464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:48:22",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H08TL804324",
+      "stock": "A262094",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/eef7630887ed.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38967679",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38967679?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:48:37",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H08TL804985",
       "stock": "A260216",
@@ -14119,6 +14239,18 @@
       "province": "BC"
     },
     {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H06TL804905",
+      "stock": "A262106",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/10ec89b6724f.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39158151",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39158151?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:48:52",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "MDX Platinum Elite2026 Acura",
       "vin": "5J8YE1H94TL805159",
       "stock": "A260177",
@@ -14186,6 +14318,30 @@
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340957",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-20T15:51:13",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H02TL805551",
+      "stock": "A261555",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b507122983d6.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340958",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340958?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:49:07",
+      "condition": "new",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H00TL805483",
+      "stock": "A261548",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/515e12e620c1.html",
+      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340959",
+      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340959?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T23:49:23",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
