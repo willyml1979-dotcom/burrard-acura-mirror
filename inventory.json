@@ -1,7 +1,7 @@
 {
   "dealership": "Burrard Acura",
-  "generated_at": "2026-10-22T20:07:22",
-  "vehicle_count": 1129,
+  "generated_at": "2026-10-22T21:09:20",
+  "vehicle_count": 1128,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13910,7 +13910,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b556d7c57764.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2025-acura-integra-id36363908",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2025-acura-integra-id36363908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:38:41",
+      "last_verified": "2026-10-22T21:05:37",
       "odometer_km": 3507,
       "condition": "new",
       "city": "Vancouver",
@@ -13923,7 +13923,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3ec2d917d9d1.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:38:57",
+      "last_verified": "2026-10-22T21:05:52",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13935,7 +13935,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/d93e2c56eb59.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:39:11",
+      "last_verified": "2026-10-22T21:06:06",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13947,7 +13947,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/d9acaaeff919.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T01:39:26",
+      "last_verified": "2026-10-22T21:06:21",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13965,25 +13965,13 @@
       "province": "BC"
     },
     {
-      "name": "Integra A-Spec CVT2026 Acura",
-      "vin": "19UDE4H36TA800648",
-      "stock": "A260136",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/929b0546e9f3.html",
-      "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815",
-      "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:26:13",
-      "condition": "new",
-      "city": "Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Integra Elite A-Spec MT2026 Acura",
       "vin": "19UDE4G78TA800784",
       "stock": "A260214",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0b518a2edc41.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:26:28",
+      "last_verified": "2026-10-22T21:06:38",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -13995,7 +13983,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/59ed36b7463e.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:26:43",
+      "last_verified": "2026-10-22T21:06:53",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14007,7 +13995,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/1555ab2d39e3.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:26:57",
+      "last_verified": "2026-10-22T21:07:06",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14019,7 +14007,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/05bd01e0dac0.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:27:11",
+      "last_verified": "2026-10-22T21:07:21",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14031,7 +14019,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/8047e01d396a.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150643",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:27:26",
+      "last_verified": "2026-10-22T21:07:37",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14043,7 +14031,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c032a94625c4.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:27:41",
+      "last_verified": "2026-10-22T21:07:52",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14104,7 +14092,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/67f62370d474.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36827366",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36827366?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:27:54",
+      "last_verified": "2026-10-22T21:08:07",
       "odometer_km": 9155,
       "condition": "new",
       "city": "Vancouver",
@@ -14117,7 +14105,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/51bee185bdb4.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36961892",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36961892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:28:10",
+      "last_verified": "2026-10-22T21:08:23",
       "odometer_km": 4546,
       "condition": "new",
       "city": "Vancouver",
@@ -14130,7 +14118,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/294e9ee092d4.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:28:24",
+      "last_verified": "2026-10-22T21:08:39",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
@@ -14142,7 +14130,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a39c590198fc.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37662598",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37662598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:28:38",
+      "last_verified": "2026-10-22T21:08:54",
       "odometer_km": 4600,
       "condition": "new",
       "city": "Vancouver",
@@ -14167,7 +14155,7 @@
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/f73b7671d9ba.html",
       "source_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38348437",
       "dealer_url": "https://www.burrardacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38348437?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T03:28:53",
+      "last_verified": "2026-10-22T21:09:09",
       "condition": "new",
       "city": "Vancouver",
       "province": "BC"
