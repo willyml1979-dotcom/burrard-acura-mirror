@@ -1,6 +1,6 @@
 {
   "dealership": "Burrard Acura",
-  "generated_at": "2026-10-25T22:31:57",
+  "generated_at": "2026-10-26T07:24:04",
   "vehicle_count": 1098,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -226,6 +226,12 @@
       "condition": "used",
       "price": 15995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/b9b069f0803b.html",
+      "condition": "used"
     },
     {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
@@ -475,12 +481,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/9ea3e9781dcd.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/a80735952ac6.html",
       "condition": "used"
     },
     {
@@ -1889,12 +1889,6 @@
       "condition": "used"
     },
     {
-      "name": "QX55 ESSENTIAL AWD2025 Infiniti",
-      "vin": "3PCAJ5KR9SF116151",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/0f822a82cda3.html",
-      "condition": "used"
-    },
-    {
       "name": "QX60 AWD LUXE2023 Infiniti",
       "vin": "5N1DL1FSXPC333110",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/dc842c510b55.html",
@@ -2388,12 +2382,6 @@
       "name": "Range Rover Sport P400 Dynamic HSE2024 Land Rover",
       "vin": "SAL1M9FU1RA189099",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/5387b2763cde.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/fea177423dbb.html",
       "condition": "used"
     },
     {
@@ -4113,6 +4101,12 @@
       "condition": "used"
     },
     {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/daa3e1d53440.html",
+      "condition": "used"
+    },
+    {
       "name": "Outlander ES S-AWC2023 Mitsubishi",
       "vin": "JA4J4UA85PZ616099",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/4734353504c7.html",
@@ -5688,6 +5682,12 @@
       "name": "Golf R 5-Dr 2.0T 4MOTION at DSG2017 Volkswagen",
       "vin": "WVWVF7AUXHW106320",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/4d9043a3ac2f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Golf R Black Edition DSG2025 Volkswagen",
+      "vin": "WVWKB7CDXSW228954",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/e2369c588a98.html",
       "condition": "used"
     },
     {
