@@ -1,7 +1,7 @@
 {
   "dealership": "Burrard Acura",
-  "generated_at": "2026-11-17T09:16:51",
-  "vehicle_count": 1169,
+  "generated_at": "2026-11-17T09:28:36",
+  "vehicle_count": 1163,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6225,12 +6225,6 @@
       "condition": "used"
     },
     {
-      "name": "ADX Platinum Elite A-Spec2025 Acura",
-      "vin": "3HDSA2H73SM101583",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c5990acf4fd8.html",
-      "condition": "new"
-    },
-    {
       "name": "ADX A-Spec2025 Acura",
       "vin": "3HDSA2H57SM102654",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/89b1a4f9c524.html",
@@ -6442,18 +6436,6 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H70TM102837",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/783c144b2c2b.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H7XTM102926",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/756a3409fa93.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H75TM102672",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c566a8c40e05.html",
       "condition": "new"
@@ -6473,7 +6455,7 @@
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H74TM103151",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a744d8916836.html",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/f20043c1043d.html",
       "condition": "new"
     },
     {
@@ -6495,12 +6477,6 @@
       "condition": "new"
     },
     {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H71TM103169",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/405dc5fba675.html",
-      "condition": "new"
-    },
-    {
       "name": "ADX A-SPEC2026 Acura",
       "vin": "3HDSA2H54TM103195",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/eff42c03088c.html",
@@ -6509,19 +6485,7 @@
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H73TM103111",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a32dd9d32cf5.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX A-SPEC2026 Acura",
-      "vin": "3HDSA2H59TM102950",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/289bbe898a01.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H73TM102587",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/06c4afc7c1dc.html",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/32209508a461.html",
       "condition": "new"
     },
     {
@@ -6544,12 +6508,6 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H76TM102826",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/77a26b7fb48e.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H7XTM102828",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2fcaa4769b11.html",
       "condition": "new"
@@ -6563,7 +6521,7 @@
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H73TM103593",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0ab45e563579.html",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/7024fa82bd8f.html",
       "condition": "new"
     },
     {
@@ -6658,20 +6616,8 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H7XTM103719",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/25d0f2dbc336.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H70TM103857",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/9a1e2fec86ce.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H71TM103737",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/d6ef5ec069a9.html",
       "condition": "new"
     },
     {
@@ -6690,6 +6636,18 @@
       "name": "ADX A-SPEC2026 Acura",
       "vin": "3HDSA2H56TM103697",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/7a3eae12dd4d.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H79TM103839",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b97f9c94a09b.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM103862",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/ce94335e9bb3.html",
       "condition": "new"
     },
     {
@@ -6713,13 +6671,31 @@
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H73TM104131",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0b90e4e046e3.html",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/9f8f43a8f69b.html",
       "condition": "new"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H77TM104116",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/240508aca525.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM104184",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/baea61af98d1.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H78TM104187",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c05cc3c5e72e.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM104195",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/075691f1a7b4.html",
       "condition": "new"
     },
     {
@@ -6744,6 +6720,54 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H7XTM104191",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/12841c89c6b7.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H50TM104280",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/72647b84e6fa.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H52TM104331",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/09616cd7c5e5.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H54TM104394",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/12fbd903d65e.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM104315",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/169502ac5a49.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM104434",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/fb09d2c0123e.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM104977",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a8504f173049.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H57TM104454",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/91771ced6132.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM104410",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c63dfbd70868.html",
       "condition": "new"
     },
     {
@@ -6784,12 +6808,6 @@
     },
     {
       "name": "Integra Elite A-Spec MT2026 Acura",
-      "vin": "19UDE4G78TA800784",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0b518a2edc41.html",
-      "condition": "new"
-    },
-    {
-      "name": "Integra Elite A-Spec MT2026 Acura",
       "vin": "19UDE4G71TA800769",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/59ed36b7463e.html",
       "condition": "new"
@@ -6813,21 +6831,9 @@
       "condition": "new"
     },
     {
-      "name": "Integra Elite A-Spec CVT2026 Acura",
-      "vin": "19UDE4H69TA800895",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/8047e01d396a.html",
-      "condition": "new"
-    },
-    {
       "name": "Integra Elite A-Spec MT2026 Acura",
       "vin": "19UDE4G70TA800777",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c032a94625c4.html",
-      "condition": "new"
-    },
-    {
-      "name": "Integra Elite A-Spec CVT2026 Acura",
-      "vin": "19UDE4H61TA800891",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/568a85e182b4.html",
       "condition": "new"
     },
     {
@@ -6885,12 +6891,6 @@
       "condition": "new"
     },
     {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL803207",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/58f64af04465.html",
-      "condition": "new"
-    },
-    {
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H01TL803127",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/1d1314448f52.html",
@@ -6900,6 +6900,12 @@
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H89TL800218",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2c084d084a28.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H94TL803301",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/8753e8e0666d.html",
       "condition": "new"
     },
     {
@@ -6921,18 +6927,6 @@
       "condition": "new"
     },
     {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H99TL803827",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b269d93358bb.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL804017",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b9ca8517ebec.html",
-      "condition": "new"
-    },
-    {
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H80TL800317",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/d0bad68860a0.html",
@@ -6946,20 +6940,8 @@
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H99TL804539",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/472ec34a6222.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
       "vin": "5J8YE1H97TL804524",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/d4dda7946bc0.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H98TL804192",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2dc877d198e1.html",
       "condition": "new"
     },
     {
@@ -6972,18 +6954,6 @@
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H08TL804324",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/eef7630887ed.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX A-SPEC2026 Acura",
-      "vin": "5J8YE1H08TL804985",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a4c00e2f4d87.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL804650",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/aaaeba321420.html",
       "condition": "new"
     },
     {
@@ -7012,24 +6982,6 @@
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H94TL805159",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/9ba55885af51.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H90TL805224",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3c5f4e87ef39.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX A-SPEC2026 Acura",
-      "vin": "5J8YE1H02TL805601",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0fd1a7b0d3b3.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
       "vin": "5J8YE1H90TL805658",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/359bb5193eca.html",
       "condition": "new"
@@ -7041,12 +6993,6 @@
       "condition": "new"
     },
     {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H9XTL805649",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/a8fa8c50df78.html",
-      "condition": "new"
-    },
-    {
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H02TL805551",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/b507122983d6.html",
@@ -7054,14 +7000,32 @@
     },
     {
       "name": "MDX A-SPEC2026 Acura",
-      "vin": "5J8YE1H00TL805483",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/515e12e620c1.html",
+      "vin": "5J8YE1H01TL805606",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/eedd84d4bad2.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H06TL805472",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/ddaa3a815021.html",
       "condition": "new"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL805846",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3d90c16de2ed.html",
+      "vin": "5J8YE1H9XTL805375",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/258635dde667.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H05TL805964",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0b6a7fd7db10.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H82TL800397",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/405850292007.html",
       "condition": "new"
     },
     {
@@ -7084,14 +7048,14 @@
     },
     {
       "name": "RDX Platinum Elite A-SPEC2026 Acura",
-      "vin": "5J8TC2H82TL802242",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/dc30739259bd.html",
+      "vin": "5J8TC2H87TL802592",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/03e2848553fd.html",
       "condition": "new"
     },
     {
       "name": "RDX Platinum Elite A-SPEC2026 Acura",
-      "vin": "5J8TC2H87TL802592",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/03e2848553fd.html",
+      "vin": "5J8TC2H82TL802242",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/cafcaf513862.html",
       "condition": "new"
     },
     {
