@@ -1,6 +1,6 @@
 # Burrard Acura
 
- dealership in Vancouver. AI-readable inventory mirror, about 1163 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 1148 vehicles.
 
 - Official website: https://www.burrardacura.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/burrard-acura-mirror/used/
