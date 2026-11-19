@@ -1,7 +1,7 @@
 {
   "dealership": "Burrard Acura",
-  "generated_at": "2026-11-18T20:49:40",
-  "vehicle_count": 1148,
+  "generated_at": "2026-11-18T20:57:31",
+  "vehicle_count": 1154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6571,13 +6571,13 @@
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H74TM104123",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3acd6bcec760.html",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c76660363c68.html",
       "condition": "new"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H73TM104131",
-      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/9f8f43a8f69b.html",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0b90e4e046e3.html",
       "condition": "new"
     },
     {
@@ -6674,6 +6674,18 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H77TM104410",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/c63dfbd70868.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H51TM104661",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/0d9b8ccdb1c2.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM104679",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/2032b27ae75e.html",
       "condition": "new"
     },
     {
@@ -6932,6 +6944,30 @@
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H82TL800397",
       "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/405850292007.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H92TL806178",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/567f66760ada.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H98TL806069",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/da1ad64933b2.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H84TL800434",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/3698906b7269.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H03TL805607",
+      "url": "https://willyml1979-dotcom.github.io/burrard-acura-mirror/new/4da7b233bd72.html",
       "condition": "new"
     },
     {
